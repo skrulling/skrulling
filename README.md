@@ -1,3 +1,5 @@
+![Welcome blue flame](public/welcomeblue.gif)
+
 ![Welcome](public/welcome.gif)
 
 ![Smileys](public/smiley.gif)
